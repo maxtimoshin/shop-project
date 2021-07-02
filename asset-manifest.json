@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/shop-project/static/css/main.94dc4e68.chunk.css",
-    "main.js": "/shop-project/static/js/main.cfd9c2f4.chunk.js",
-    "main.js.map": "/shop-project/static/js/main.cfd9c2f4.chunk.js.map",
+    "main.js": "/shop-project/static/js/main.b5ef772a.chunk.js",
+    "main.js.map": "/shop-project/static/js/main.b5ef772a.chunk.js.map",
     "runtime-main.js": "/shop-project/static/js/runtime-main.9c86586c.js",
     "runtime-main.js.map": "/shop-project/static/js/runtime-main.9c86586c.js.map",
-    "static/js/2.cf8835bb.chunk.js": "/shop-project/static/js/2.cf8835bb.chunk.js",
-    "static/js/2.cf8835bb.chunk.js.map": "/shop-project/static/js/2.cf8835bb.chunk.js.map",
+    "static/js/2.224cf873.chunk.js": "/shop-project/static/js/2.224cf873.chunk.js",
+    "static/js/2.224cf873.chunk.js.map": "/shop-project/static/js/2.224cf873.chunk.js.map",
     "index.html": "/shop-project/index.html",
     "static/css/main.94dc4e68.chunk.css.map": "/shop-project/static/css/main.94dc4e68.chunk.css.map",
-    "static/js/2.cf8835bb.chunk.js.LICENSE.txt": "/shop-project/static/js/2.cf8835bb.chunk.js.LICENSE.txt",
+    "static/js/2.224cf873.chunk.js.LICENSE.txt": "/shop-project/static/js/2.224cf873.chunk.js.LICENSE.txt",
     "static/media/crown.3a4e2b15.svg": "/shop-project/static/media/crown.3a4e2b15.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9c86586c.js",
-    "static/js/2.cf8835bb.chunk.js",
+    "static/js/2.224cf873.chunk.js",
     "static/css/main.94dc4e68.chunk.css",
-    "static/js/main.cfd9c2f4.chunk.js"
+    "static/js/main.b5ef772a.chunk.js"
   ]
 }
