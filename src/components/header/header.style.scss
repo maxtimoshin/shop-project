@@ -8,7 +8,10 @@
     .logo-container {
       height: 100%;
       width: 70px;
-      padding: 25px;
+      display: flex;
+      align-items:center;
+      flex-direction: column;
+      justify-content: center;
     }
   
     .options {
@@ -22,6 +25,9 @@
       .option {
         padding: 10px 15px;
         cursor: pointer;
+        &:hover {
+          text-decoration: underline;
+        }
       }
     }
   }

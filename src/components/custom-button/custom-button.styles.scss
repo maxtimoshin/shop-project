@@ -18,6 +18,7 @@
       background-color: white;
       color: black;
       border: 1px solid black;
+      transition: ease-in 0.2s;
     }
 
     &.google-sign-in {
@@ -25,6 +26,7 @@
       color:#fff;
       &:hover {
         background-color: #357ae8;
+        transition: ease-in 0.2s;
         border:none;
       }
     }
